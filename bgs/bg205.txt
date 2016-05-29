@@ -1,0 +1,5 @@
+negs/1997.jpg
+negs/1998.jpg
+negs/1999.jpg
+negs/2.jpg
+negs/20.jpg

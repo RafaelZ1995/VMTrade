@@ -1,0 +1,5 @@
+negs/1987.jpg
+negs/1988.jpg
+negs/1989.jpg
+negs/199.jpg
+negs/1990.jpg
